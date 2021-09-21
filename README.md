@@ -2,4 +2,4 @@
 
 ##Projemin canlıdaki linki : 
 
-- [LIVE](https://rumeysayuk.github.io/faprika/) - HTML
+- [LIVE](https://rumeysayuk.github.io/faprika/) 
